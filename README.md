@@ -1,5 +1,5 @@
 <h1>Para <a href="https://comprosuasmilhas.com.br/#vender-milhas">Vender Milhas</a></h1>
-Como vender milhas aéreas das principais companhias brasileiras como TAM, GOL, AZUL e Avianca<br><br>
+Como vender milhas aéreas das principais companhias brasileiras como <a href="https://comprosuasmilhas.com.br/vender-milhas/latam">LATAM</a>, <a href="https://comprosuasmilhas.com.br/vender-milhas/gol">GOL</a>, <a href="https://comprosuasmilhas.com.br/vender-milhas/azul">AZUL</a> e <a href="https://comprosuasmilhas.com.br/vender-milhas/tap">TAP</a><br><br>
 
 Se você quer vender milhas com total segurança, sigilo e agilidade acesse o site da Bankmilhas.<br><br>
 
