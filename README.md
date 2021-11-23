@@ -10,4 +10,15 @@ Https://midbr.com.br/vender-milhas/avianca para vender milhas aviaca <br><br>
 
 Se você tem dúvidas acerca do processo basta acessar a página que fala tudo sobre vender milhas e fazer uma pergunta: https://midbr.com.br/vender-milhas/
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-213511081-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-213511081-1');
+</script>
+
+
 
